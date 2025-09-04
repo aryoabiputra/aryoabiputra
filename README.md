@@ -1,4 +1,4 @@
-![Aryo Abi Putra](img/gambar.png)
+![Aryo Abi Putra](img/github-header-banner.png)
 
 
 ### 🌐 Socials:
