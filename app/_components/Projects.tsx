@@ -35,7 +35,7 @@ const projects = [
     tags: ['Wordpress'],
     accent: 'from-teal-400 to-emerald-500',
     glow: 'rgba(45,212,191,0.15)',
-    href: '#',
+    href: 'https://geargang.web.id/',
   },
 ]
 
